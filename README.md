@@ -36,7 +36,7 @@ This project analyzes Olympic athlete data from 2008, 2012, and 2016 Summer Olym
 
 ## Visualizations
 
-[Include descriptions or links to your visualizations here]
+![DBSCAN Clustering of Sports](images/output_40_1.png)
 
 ## Data Source
 
