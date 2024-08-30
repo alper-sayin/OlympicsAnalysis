@@ -2,7 +2,7 @@
 
 ## Description
 
-This project analyzes Olympic athlete data from 2008, 2012, and 2016 Summer Olympics, focusing on identifying and understanding outliers in various sports based on athletes' physical attributes. Using advanced machine learning techniques, we explore how different sports deviate from the norm in terms of age, height, weight, and BMI characteristics of their athletes.
+This project analyzes Olympic athlete data from 2008, 2012, and 2016 Summer Olympics, focusing on identifying and understanding outliers in various sports comparing genders based on athletes' physical attributes.  Using advanced machine learning techniques, we explore how different sports deviate from the norm in terms of age, height, weight, and BMI characteristics of their athletes.
 
 ## Key Features
 
