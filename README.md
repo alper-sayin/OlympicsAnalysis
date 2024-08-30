@@ -27,12 +27,14 @@ This project analyzes Olympic athlete data from 2008, 2012, and 2016 Summer Olym
 - Matplotlib, Seaborn, and Plotly for visualization
 - Scikit-learn for machine learning algorithms (DBSCAN, Isolation Forest, PCA)
 
-## Key Findings
+## Key Findings&Results
 
 - Significant variations in gender differences were observed across different sports for age, height, weight, and BMI.
 - The analysis revealed patterns in how gender differences manifest in various Olympic sports.
 - In many sports, there are physical attribute similarities regardless of gender.
 - Boxing was consistently identified as an outlier sport in terms of comparing genders in multiple athletic metrics.
+- DBSCAN and Isolation Forest models' results are nearly identical.
+- Z score results also support our argument.
 
 ## Visualizations
 
@@ -45,7 +47,7 @@ Female athlete averages
 ![Description](images/output_59_0.png)
 Correlations between different attributes
 ![Description](images/output_70_0.png)
-Adjusting parameters for model optimization. Silhoutte score is one of the indicators of model success.
+   Adjusting parameters for model optimization. Silhoutte score is one of the indicators of model success.
 ![Description](images/output_72_0.png)
 DBSCAN Clustering
 ![Description](images/output_76_0.png)
