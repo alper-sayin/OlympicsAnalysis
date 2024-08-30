@@ -37,17 +37,23 @@ This project analyzes Olympic athlete data from 2008, 2012, and 2016 Summer Olym
 ## Visualizations
 
 ![Description](images/output_40_1.png)
-![Description](images/output_48_0.png)
+Total athletes in dataset
 ![Description](images/output_51_0.png)
+Male athlete averages
 ![Description](images/output_53_0.png)
+Female athlete averages
 ![Description](images/output_59_0.png)
+Correlations between different attributes
 ![Description](images/output_70_0.png)
+Adjusting parameters for model optimization. Silhoutte score is one of the indicators of model success.
 ![Description](images/output_72_0.png)
+DBSCAN Clustering
 ![Description](images/output_76_0.png)
+Isolation Forest Clustering
 ![Description](images/output_79_0.png)
+Isolation Forest Sensitivity Analysis
 ![Description](images/output_81_0.png)
-
-
+Z Score Results
 
 ## Data Source
 
