@@ -48,10 +48,10 @@ Female athlete averages
 Correlations between different attributes
 ![Description](images/output_70_0.png)
    Adjusting DBSCAN model parameters for optimization. Silhoutte score is one of the indicators of model success.
-![Description](images/output_72_0.png)
-DBSCAN Clustering
 ![Description](images/output_79_0.png)
 Isolation Forest Sensitivity Analysis
+![Description](images/output_72_0.png)
+DBSCAN Clustering
 ![Description](images/output_76_0.png)
 Isolation Forest Clustering
 ![Description](images/output_81_0.png)
