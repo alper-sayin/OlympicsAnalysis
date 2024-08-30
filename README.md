@@ -36,7 +36,18 @@ This project analyzes Olympic athlete data from 2008, 2012, and 2016 Summer Olym
 
 ## Visualizations
 
-![DBSCAN Clustering of Sports](images/output_40_1.png)
+![Description](images/output_40_1.png)
+![Description](images/output_48_0.png)
+![Description](images/output_51_0.png)
+![Description](images/output_53_0.png)
+![Description](images/output_59_0.png)
+![Description](images/output_70_0.png)
+![Description](images/output_72_0.png)
+![Description](images/output_76_0.png)
+![Description](images/output_79_0.png)
+![Description](images/output_81_0.png)
+
+
 
 ## Data Source
 
